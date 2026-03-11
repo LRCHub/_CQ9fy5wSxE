@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "ステラ (BLUE BACK Ver.)",
-  "base_artist": "JIN",
-  "createdAt": "2026-03-11T04:46:32.266417Z",
+  "base_artist": "じん",
+  "createdAt": "2026-03-11T04:46:42.901141Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -127,10 +127,10 @@
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ステラ - BLUE BACK Ver.",
-      "artist": "Jin",
+      "title": "ステラ",
+      "artist": "じん【初音ミク】",
       "has_synced": false,
-      "path": "select/pl_01_ステラ_-_BLUE_BACK_Ver._Jin.txt"
+      "path": "select/pl_01_ステラ_じん【初音ミク】.txt"
     }
   ]
 }
